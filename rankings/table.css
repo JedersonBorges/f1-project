@@ -1,0 +1,105 @@
+body {
+    background-image: linear-gradient(to left, #18102A, #0D071A, #05020E,#010004);
+    color: white;
+    width:1450px;
+    margin: auto;
+    
+}
+
+h1 {
+    background-image: linear-gradient(to left, #271E3C, #18102A,#0D071A);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 35px;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 1px;
+    padding-right: 0px;
+    border-radius: 5px;
+    border: 2px rgba(255, 255, 255, 0.5) solid;
+    height: 50px;
+    width: 420px;
+    text-shadow: 1px 1px 2px #02040E;
+        
+  
+}
+p {
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    padding-right: 10px;
+}
+
+#logo {
+    text-align: center;
+    margin: 50px;
+    margin-top: 50px;
+}
+
+#title {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 65px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+span {
+    background-image: linear-gradient(to left, #271E3C, #18102A,#0D071A);
+    text-align: center;
+    display: inline-block;
+    border: 1px rgba(255, 255, 255, 0.575) solid;
+    padding: 15px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 2em;
+}
+
+span.name {
+    text-align: justify;
+    width: 300px;
+    
+}
+
+.table1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    border-radius: 1px;
+    height: 750px;
+    width: 700px;
+}
+
+.table2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: center;
+    margin-top: -71px;
+    margin-bottom: 15px;
+    border-radius: 1px;
+    height: 750px;
+    width: 700px;
+}
+
+td {
+    margin: auto;
+}
+
+div#divtab {
+    margin: center;
+}

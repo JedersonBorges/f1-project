@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to left, #18102A, #0D071A, #05020E,#010004);
+    color: white;
+
+}
+
+h1 {    text-align: center;
+        margin: 80px;
+
+}
+
+.menu {
+    
+    background-image: linear-gradient(to left, #271E3C, #18102A,#0D071A);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 1px;
+    text-align: center;
+    height: 2em;
+    width: 10em;
+    border-radius: 20px;
+    border: 1px solid white;
+        
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+
